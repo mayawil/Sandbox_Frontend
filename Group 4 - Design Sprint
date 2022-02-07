@@ -1,51 +1,51 @@
 
 Each member should restate the long term goal/ Product Vision and add a link to the group doc (15 points). 
-The app should keep a track of all the investors and record their information(name,company)and have an option to set the status of them as approved, pending and rejected.
-Data form/sheet style product to allow investors to enter their information(using react-frontend, mon
-The app should help small businesses keep track of their product stock.   
-The app should promote or sell user’s products         
-The app should allow users to manage product databases
-The app will also suggest startup ideas and businesses
+	-The app should keep a track of all the investors and record their information(name,company)and have an option to set the status of them as approved, pending and rejected.
+	-Data form/sheet style product to allow investors to enter their information(using react-frontend, mon
+	-The app should help small businesses keep track of their product stock.   
+	-The app should promote or sell user’s products         
+	-The app should allow users to manage product databases
+	-The app will also suggest startup ideas and businesses
 
 List stakeholders of the projects (People other than direct users who you could require data or input from or who may indirectly benefit from the product). (5 points)
-Data collection agencies?
-Venture capitalist
-Firms
-Government
-Product Managers
-Investors
+	-Data collection agencies?
+	-Venture capitalist
+	-Firms
+	-Government
+	-Product Managers
+	-Investors
 
 Gather links that talk about the problems that students may face  (5 points). Create a list of customer discovery interview questions (10 points) These links and list will supplement the Ask the Experts activity. 
-Links :
-https://www.bestroboadvisors.org/new-investor-challenges/
-https://socialnomics.net/2017/05/26/challenges-startups-can-face-when-looking-for-investors/
-https://www.forafinancial.com/blog/working-capital/pros-cons-private-investors/
-https://wire.funderbeam.com/understanding-the-problem-investing-in-startups-1ed72133718b
-https://hbr.org/1989/11/everything-you-dont-want-to-know-about-raising-capital
-Customer Discovery Interview Questions : https://jamboard.google.com/d/13CHnRg5nxxeBTa75_XO6VJo09HXs2jHy2E-oWseEtR4/edit?usp=sharing
+
+** Links :
+	- https://www.bestroboadvisors.org/new-investor-challenges/
+	- https://socialnomics.net/2017/05/26/challenges-startups-can-face-when-looking-for-investors/
+	- https://www.forafinancial.com/blog/working-capital/pros-cons-private-investors/
+	- https://wire.funderbeam.com/understanding-the-problem-investing-in-startups-1ed72133718b
+	- https://hbr.org/1989/11/everything-you-dont-want-to-know-about-raising-capital
+	- Customer Discovery Interview Questions : https://jamboard.google.com/d/13CHnRg5nxxeBTa75_XO6VJo09HXs2jHy2E-oWseEtR4/edit?usp=sharing
 
 Create a Jamboard. Each member should  use it to Identify the personas/imagined users for the products (Sommervile pg. 55 (Links to an external site.) (20 points)
-	https://jamboard.google.com/d/1espHMaJVLCB0lobFYetXwUycdyXOVTeVd8fYCj_1GLM/viewer?f=0
+	- https://jamboard.google.com/d/1espHMaJVLCB0lobFYetXwUycdyXOVTeVd8fYCj_1GLM/viewer?f=0
  
 Each member should generate a User Journey Map (25 points)
-			** Share your link by your name**
-Jevon Franklin : https://docs.google.com/document/d/1JJFOHHI2QG80B0ee_eUGoe1XRrLg_rnErFgF3roiSfY/edit?usp=sharing
-Soroush Alimardani : https://docs.google.com/document/d/1P0iOtlf2eUo7zvVtvZ04wcoZs5gcjooS-vlhz2WTHng/edit?usp=sharing
-Venison Lo : https://docs.google.com/document/d/1lGtdM4OCpr0xvQYw6O1RpOLfisI5f2L24UuwSCHFbqc/edit?usp=sharing
-Achraf Nachet: https://docs.google.com/document/d/1g6kcZf8ubUE9cA9gPOFIf5-97ZPpsq4GGhIYjnS_WCU/edit 
-Ammad Rabbani : 
-Maya Williams : https://www.figma.com/file/rmMEueNiTa4t4XRE1cVZG0/MayaWilliams-UJM?node-id=0%3A1
-John Mharlou Maturan 
-https://drive.google.com/file/d/1fTL01x9kneMPpE4ysk7rDDatc-5U9LVM/view?usp=sharing
-https://drive.google.com/file/d/1723hcxVrsatu7GyAQ5meubTLbcmXGmR-/view?usp=sharing
+			
+	- Jevon Franklin : https://docs.google.com/document/d/1JJFOHHI2QG80B0ee_eUGoe1XRrLg_rnErFgF3roiSfY/edit?usp=sharing
+	- Soroush Alimardani : https://docs.google.com/document/d/1P0iOtlf2eUo7zvVtvZ04wcoZs5gcjooS-vlhz2WTHng/edit?usp=sharing
+	- Venison Lo : https://docs.google.com/document/d/1lGtdM4OCpr0xvQYw6O1RpOLfisI5f2L24UuwSCHFbqc/edit?usp=sharing
+	- Achraf Nachet: https://docs.google.com/document/d/1g6kcZf8ubUE9cA9gPOFIf5-97ZPpsq4GGhIYjnS_WCU/edit 
+	- Maya Williams : https://www.figma.com/file/rmMEueNiTa4t4XRE1cVZG0/MayaWilliams-UJM?node-id=0%3A1
+	- John Mharlou Maturan 
+		- https://drive.google.com/file/d/1fTL01x9kneMPpE4ysk7rDDatc-5U9LVM/view?usp=sharing
+		- https://drive.google.com/file/d/1723hcxVrsatu7GyAQ5meubTLbcmXGmR-/view?usp=sharing
  
 Generate HMW notes (20 points)
-	How might we:
-	Mitigate security risk, gather information on investors in a time efficient manner.
+How might we:
+Mitigate security risk, gather information on investors in a time efficient manner.
 	
-We will mitigate security risks with our own security firewalls and backup systems.
-We will have professionals who will handle such mitigating security risks.
-We will gather information about investors by our own data software. 
-Our associates will conduct research and proper protocol to gain access to venture capital investors.
-We will use the kanban approach to maximize our time.
-We will provide the most top-of-the-line services that will protect our investors' classified information.
+	- We will mitigate security risks with our own security firewalls and backup systems.
+	- We will have professionals who will handle such mitigating security risks.
+	- We will gather information about investors by our own data software. 
+	- Our associates will conduct research and proper protocol to gain access to venture capital investors.
+	- We will use the kanban approach to maximize our time.
+	- We will provide the most top-of-the-line services that will protect our investors' classified information.
